@@ -1,0 +1,22 @@
+{
+    "name": "phplegends/timer-laravel",
+    "description": "A package for work with times in Laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wallace de Souza Vizerra",
+            "email": "wallacemaxters@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "wallacemaxters/timer" : "1.2.*",
+        "illuminate/support"   : "4.2.*",
+        "php" : ">=5.4"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "PHPLegends\\TimerLaravel\\" : "src"
+        }
+    }
+}
