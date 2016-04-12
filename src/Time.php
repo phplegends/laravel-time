@@ -26,4 +26,3 @@ class Time extends \WallaceMaxters\Timer\Time
 		return Collection::create($times)->setFormat($format);
 	}
 }
-

@@ -8,9 +8,9 @@ Time laravel is a package for work with times in Laravel. Is a extension on Wall
 
 Add the folow code in your composer.json file.
 
-```
+```json
 {
-    "phplegends/timer-laravel" : "1.*"
+    "phplegends/timer-laravel" : "2.*"
 }
 ```
 
