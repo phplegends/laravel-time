@@ -4,7 +4,7 @@
 Time laravel is a package for work with times in Laravel. Is a extension on WallaceMaxters\Timer\Time, a library for work with times, specially the greathers than 24 hours.
 
 
-# Instalation
+# Installation
 
 Add the folow code in your composer.json file.
 
